@@ -6,7 +6,9 @@ Note:
 I get some problem at using "multi-column in row" and "multi row in column"
 
 How it looks:
-![gambar](https://user-images.githubusercontent.com/77487682/221353408-0400e8d4-1814-4011-9f4a-004b56f3325f.png)
+
+![gambar](https://user-images.githubusercontent.com/77487682/221353444-ce56fc09-c944-4172-9395-8026c207fc75.png)
+
 
 
 ## Getting Started
