@@ -1,6 +1,13 @@
 # catatan_pegeluaran
 
-A new Flutter project.
+Following code from https://daengweb.id/mengenal-widget-flutter-2-container-stack-positioned and make some changes
+
+Note: 
+I get some problem at using "multi-column in row" and "multi row in column"
+
+How it looks:
+![gambar](https://user-images.githubusercontent.com/77487682/221353408-0400e8d4-1814-4011-9f4a-004b56f3325f.png)
+
 
 ## Getting Started
 
